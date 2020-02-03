@@ -10,4 +10,4 @@ If you interested you can check my social media links:
 
 ## Also there is some stuff I have created
 
-* [Unity assets](https://amelkor.com/unityassets.md)
+* [Unity assets](unityassets.md)

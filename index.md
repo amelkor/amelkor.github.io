@@ -4,7 +4,7 @@ Hi!
 My name is Aleksey. I create these stuff at my spare time mostly.
 If you interested you can check my social media links:
 
-[Twitter](https://twitter.com/AlekseyMelkor)
+[Twitter](https://twitter.com/cmdexecutor)
 
 [LinkedIn](https://www.linkedin.com/in/alekseimelkor)
 
